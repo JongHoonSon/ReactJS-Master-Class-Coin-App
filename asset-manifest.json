@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ReactJS-Coin-App/static/js/main.5d4cef14.js",
-    "index.html": "/ReactJS-Coin-App/index.html",
-    "main.5d4cef14.js.map": "/ReactJS-Coin-App/static/js/main.5d4cef14.js.map"
+    "main.js": "/ReactJS-Master-Class-Coin-App/static/js/main.0d80cd32.js",
+    "index.html": "/ReactJS-Master-Class-Coin-App/index.html",
+    "main.0d80cd32.js.map": "/ReactJS-Master-Class-Coin-App/static/js/main.0d80cd32.js.map"
   },
   "entrypoints": [
-    "static/js/main.5d4cef14.js"
+    "static/js/main.0d80cd32.js"
   ]
 }
